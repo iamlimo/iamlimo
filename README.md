@@ -1,6 +1,6 @@
 # Hi there, I'm Limo 👋
 
-I'm a **Full Stack Developer**, **Tech Founder**, and **Blockchain Enthusiast** passionate about building impactful digital solutions.
+I'm a **Full Stack Developer**, **Product Manager**, **Tech Founder**, and **Blockchain Enthusiast** passionate about building impactful digital solutions.
 
 ---
 
