@@ -1,4 +1,4 @@
-# Hi there, I'm Limo 👋
+ # Hi there, I'm Limo 👋
 
 I'm a **Full Stack Developer**, **Product Manager**, **Tech Founder**, and **Blockchain Enthusiast** passionate about building impactful digital solutions.
 
@@ -13,10 +13,9 @@ I'm a **Full Stack Developer**, **Product Manager**, **Tech Founder**, and **Blo
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
 ---
-
 ## 📊 GitHub Stats
 
-![Limo's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlimo&show_icons=true&theme=radical)
+![Limo's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlimo&show_icons=true&theme=radical&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlimo&layout=compact&theme=radical)](https://github.com/limotech)
 
