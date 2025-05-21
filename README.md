@@ -16,9 +16,9 @@ I'm a **Full Stack Developer**, **Tech Founder**, and **Blockchain Enthusiast** 
 
 ## 📊 GitHub Stats
 
-![Limo's GitHub stats](https://github-readme-stats.vercel.app/api?username=limotech&show_icons=true&theme=radical)
+![Limo's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlimo&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limotech&layout=compact&theme=radical)](https://github.com/limotech)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlimo&layout=compact&theme=radical)](https://github.com/limotech)
 
 ---
 
