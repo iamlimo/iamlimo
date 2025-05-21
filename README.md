@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Limo 👋
 
-<!--
-**iamlimo/iamlimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer**, **Tech Founder**, and **Blockchain Enthusiast** passionate about building impactful digital solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+
+---
+
+## 📊 GitHub Stats
+
+![Limo's GitHub stats](https://github-readme-stats.vercel.app/api?username=limotech&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limotech&layout=compact&theme=radical)](https://github.com/limotech)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/isaac-orija-322a95103/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge)](https://twitter.com/isaacorija)
